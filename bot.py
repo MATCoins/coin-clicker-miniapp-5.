@@ -23,7 +23,7 @@ from telegram.ext import (
 
 load_dotenv()
 
-BOT_TOKEN = os.getenv("BOT_TOKEN", "").strip()
+BOT_TOKEN = os.getenv("9212011556:AAF3s8Mh8aqbwDBhvOjLitM7Koons9njv6o", "").strip()
 PRODUCT_TITLE = os.getenv("PRODUCT_TITLE", "Onlayn Qumar: Strategiya və Risk")
 PRODUCT_DESCRIPTION = os.getenv(
     "PRODUCT_DESCRIPTION",
